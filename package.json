@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "python": "^0.0.4",
+    "socket.io": "^4.8.1"
+  }
+}
